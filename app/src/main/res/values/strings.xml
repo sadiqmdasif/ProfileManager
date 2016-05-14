@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfileManager</string>
+    <string name="accX">Accelerometer Values</string>
+    <string name="accValues" />
+    <string name="appInfo">\n\n6 Modes available \n upside down\non surface\nunder something\nin pocket\non hand\non hand upside down</string>
+    <string name="buttonStartStop">Smart Profile Manager</string>
+</resources>
